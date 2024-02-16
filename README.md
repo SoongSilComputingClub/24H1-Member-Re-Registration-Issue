@@ -18,7 +18,7 @@
 
 ## 상세 설명
 ```
-1. 이슈로 이동하여 New Issue 버튼을 클릭합니다.
+1. 이슈로 이동하여 New issue 버튼을 클릭합니다.
 ```
 <img src="https://github.com/SoongSilComputingClub/2024-1-Member-Re-Registration-Issue/blob/main/images/1.%20issue%20%ED%81%B4%EB%A6%AD%20-%20%EB%B3%B5%EC%82%AC%EB%B3%B8.png?raw=true">
 
@@ -29,5 +29,6 @@
 
 ```
 3. 제목을 자신의 이름과 소속에 맞게 수정하고, Assignees는 자기 자신의 아이디로 설정합니다. 이후 본문을 작성합니다.
+작성이 완료되면 Submit new issue를 클릭하여 제출합니다.
 ```
 <img src="https://github.com/SoongSilComputingClub/2024-1-Member-Re-Registration-Issue/blob/main/images/3.%20%EC%9D%B4%EC%8A%88%20%EB%82%B4%EC%9A%A9%20%EC%9E%91%EC%84%B1%20-%20%EB%B3%B5%EC%82%AC%EB%B3%B8.png?raw=true">
